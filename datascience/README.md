@@ -1,0 +1,1 @@
+This repository documents my journey into learning the fundamentals of Data Science using Python. It includes notes, code snippets, and projects to track my progress as I develop essential skills in data analysis, visualization, and machine learning.
