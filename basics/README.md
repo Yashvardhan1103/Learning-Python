@@ -1,0 +1,1 @@
+This repository contains fundamental Python concepts and code examples that are essential for learning and mastering the language. It is aimed at beginners who want to get a solid understanding of the core principles of Python programming.
